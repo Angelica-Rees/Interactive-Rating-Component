@@ -6,6 +6,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [How to Run](#how-to-run)
 - [My process](#my-process)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -25,6 +26,14 @@ Users should be able to:
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
+### How to Run
+
+To run locally for viewing: 
+
+- Clone the repository using git-bash (https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+- Open directory in VS code
+- Download 'Live Server' extension on VS code
+- Run using Live Server extension 
 
 ## My process
 
